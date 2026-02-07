@@ -1,2 +1,4 @@
 # Added by Antigravity
-export PATH="/Users/pangdun/.antigravity/antigravity/bin:$PATH"
+if [[ -d "$HOME/.antigravity/antigravity/bin" ]]; then
+  export PATH="$HOME/.antigravity/antigravity/bin:$PATH"
+fi

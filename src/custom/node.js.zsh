@@ -1,2 +1,4 @@
-# Addd by fnm
-eval "$(fnm env --use-on-cd)"
+# Added by fnm
+if (( $+commands[fnm] )); then
+  eval "$(fnm env --use-on-cd)"
+fi
