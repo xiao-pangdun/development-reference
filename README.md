@@ -17,6 +17,8 @@ Here are some applications highly recommended for development:
 - [iTerm2](/docs/applications/iterm2.md)
 - [Visual Studio Code](/docs/applications/visual-studio-code.md)
 - [Google Antigravity](/docs/applications/antigravity.md)
+- [Supabase](/docs/applications/supabase.md)
+- [Docker](/docs/applications/docker.md)
 
 ## SDKs
 
