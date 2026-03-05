@@ -24,6 +24,7 @@ Here are some applications highly recommended for development:
 
 Here are some SDKs frequently used for development:
 
+- [Java](/docs/sdks/java.md)
 - [Node.js](/docs/sdks/node.js.md)
 - [Python](/docs/sdks/python.md)
 
