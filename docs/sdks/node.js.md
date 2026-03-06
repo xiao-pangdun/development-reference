@@ -23,7 +23,7 @@ brew install fnm
 
 Add the following to your `~/.zshrc`:
 ```sh
-eval "$(fnm env --use-on-cd)"
+eval "$(fnm env --use-on-cd --shell zsh)"
 ```
 > The `--use-on-cd` flag enables automatic switching of Node versions when entering a directory with a `.node-version` or `.nvmrc` file.
 
