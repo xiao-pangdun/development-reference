@@ -1,5 +1,7 @@
 # iTerm2
 
+> Consider using [Ghostty](ghostty.md) as a modern alternative terminal emulator.
+
 Check out [iTerm2](https://iterm2.com/) official website
 
 ## installation
