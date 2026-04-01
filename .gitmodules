@@ -10,3 +10,6 @@
 [submodule "src/custom/plugins/zsh-syntax-highlighting"]
 	path = src/custom/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "src/oh-my-environment"]
+	path = src/oh-my-environment
+	url = https://github.com/xiao-pangdun/oh-my-environment.git
