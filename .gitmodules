@@ -1,15 +1,3 @@
-[submodule "src/custom/plugins/zsh-autosuggestions"]
-	path = src/custom/plugins/zsh-autosuggestions
-	url = https://github.com/zsh-users/zsh-autosuggestions.git
-[submodule "src/custom/plugins/zsh-completions"]
-	path = src/custom/plugins/zsh-completions
-	url = https://github.com/zsh-users/zsh-completions.git
-[submodule "src/custom/plugins/zsh-history-substring-search"]
-	path = src/custom/plugins/zsh-history-substring-search
-	url = https://github.com/zsh-users/zsh-history-substring-search.git
-[submodule "src/custom/plugins/zsh-syntax-highlighting"]
-	path = src/custom/plugins/zsh-syntax-highlighting
-	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
 [submodule "src/oh-my-environment"]
 	path = src/oh-my-environment
 	url = https://github.com/xiao-pangdun/oh-my-environment.git
