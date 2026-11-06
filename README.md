@@ -32,6 +32,7 @@ Here are some applications highly recommended for development:
 Here are some SDKs frequently used for development:
 
 - [Android](/docs/sdks/android.md)
+- [Go](/docs/sdks/go.md)
 - [Java](/docs/sdks/java.md)
 - [Node.js](/docs/sdks/node.js.md)
 - [Python](/docs/sdks/python.md)
